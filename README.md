@@ -1,2 +1,2 @@
 # Python-Projects
-Beginner Level Projects By Using Python
+Beginner-level projects done using Python.
